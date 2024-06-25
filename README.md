@@ -20,6 +20,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/tejal156/Leetcode/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/tejal156/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 # Math
 |  |
 | ------- |
@@ -51,6 +52,7 @@
 | [0011-container-with-most-water](https://github.com/tejal156/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/tejal156/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/tejal156/Leetcode/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/tejal156/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 # Greedy
 |  |
 | ------- |
