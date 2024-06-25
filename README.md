@@ -8,6 +8,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/tejal156/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/tejal156/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/tejal156/Leetcode/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/tejal156/Leetcode/tree/master/0018-4sum) |
 | [0485-max-consecutive-ones](https://github.com/tejal156/Leetcode/tree/master/0485-max-consecutive-ones) |
 # Hash Table
 |  |
@@ -49,6 +50,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/tejal156/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/tejal156/Leetcode/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/tejal156/Leetcode/tree/master/0018-4sum) |
 # Greedy
 |  |
 | ------- |
@@ -57,6 +59,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/tejal156/Leetcode/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/tejal156/Leetcode/tree/master/0018-4sum) |
 # Backtracking
 |  |
 | ------- |
