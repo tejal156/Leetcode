@@ -12,6 +12,7 @@
 | [0027-remove-element](https://github.com/tejal156/Leetcode/tree/master/0027-remove-element) |
 | [0046-permutations](https://github.com/tejal156/Leetcode/tree/master/0046-permutations) |
 | [0485-max-consecutive-ones](https://github.com/tejal156/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0540-single-element-in-a-sorted-array](https://github.com/tejal156/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 # Hash Table
 |  |
 | ------- |
@@ -50,6 +51,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/tejal156/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0540-single-element-in-a-sorted-array](https://github.com/tejal156/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 # Divide and Conquer
 |  |
 | ------- |
