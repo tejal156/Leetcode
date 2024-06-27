@@ -10,6 +10,7 @@
 | [0015-3sum](https://github.com/tejal156/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/tejal156/Leetcode/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/tejal156/Leetcode/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/tejal156/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0046-permutations](https://github.com/tejal156/Leetcode/tree/master/0046-permutations) |
 | [0485-max-consecutive-ones](https://github.com/tejal156/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/tejal156/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -51,6 +52,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/tejal156/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/tejal156/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/tejal156/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 # Divide and Conquer
 |  |
