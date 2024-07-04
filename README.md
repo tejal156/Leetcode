@@ -99,6 +99,7 @@
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/tejal156/Leetcode/tree/master/0051-n-queens) |
+| [1036-rotting-oranges](https://github.com/tejal156/Leetcode/tree/master/1036-rotting-oranges) |
 ## Backtracking
 |  |
 | ------- |
@@ -138,4 +139,12 @@
 |  |
 | ------- |
 | [0460-lfu-cache](https://github.com/tejal156/Leetcode/tree/master/0460-lfu-cache) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1036-rotting-oranges](https://github.com/tejal156/Leetcode/tree/master/1036-rotting-oranges) |
+## Matrix
+|  |
+| ------- |
+| [1036-rotting-oranges](https://github.com/tejal156/Leetcode/tree/master/1036-rotting-oranges) |
 <!---LeetCode Topics End-->
