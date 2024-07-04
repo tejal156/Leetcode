@@ -111,6 +111,7 @@
 | [0155-min-stack](https://github.com/tejal156/Leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/tejal156/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/tejal156/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0937-online-stock-span](https://github.com/tejal156/Leetcode/tree/master/0937-online-stock-span) |
 ## Design
 |  |
 | ------- |
@@ -118,6 +119,7 @@
 | [0225-implement-stack-using-queues](https://github.com/tejal156/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/tejal156/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0460-lfu-cache](https://github.com/tejal156/Leetcode/tree/master/0460-lfu-cache) |
+| [0937-online-stock-span](https://github.com/tejal156/Leetcode/tree/master/0937-online-stock-span) |
 ## Queue
 |  |
 | ------- |
@@ -147,4 +149,12 @@
 |  |
 | ------- |
 | [1036-rotting-oranges](https://github.com/tejal156/Leetcode/tree/master/1036-rotting-oranges) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/tejal156/Leetcode/tree/master/0937-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/tejal156/Leetcode/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
