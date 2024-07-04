@@ -29,7 +29,7 @@ class Solution {
                 for(int j = 0 ; j <= 3 ; j++ ){
                     int ni = currP.r + arr_r[j] ;
                     int nj = currP.c + arr_c[j] ;
-                    System.out.println(td +" : "+ ni + " "+ nj) ;
+                    // System.out.println(td +" : "+ ni + " "+ nj) ;
                     if(ni >= 0 && ni < tr && nj >= 0 && nj<tc && grid[ni][nj] == 1){
                         grid[ni][nj] = 2 ;
                         q.add( new Pair( ni , nj) ) ;
@@ -41,7 +41,7 @@ class Solution {
             }
             
         }
-        System.out.println( t_cal_or + " "+ total_or) ;
+        // System.out.println( t_cal_or + " "+ total_or) ;
         if( t_cal_or == total_or ){
             return td ;
         } 
