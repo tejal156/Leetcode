@@ -103,4 +103,16 @@
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/tejal156/Leetcode/tree/master/0051-n-queens) |
+## Stack
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/tejal156/Leetcode/tree/master/0225-implement-stack-using-queues) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/tejal156/Leetcode/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/tejal156/Leetcode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
