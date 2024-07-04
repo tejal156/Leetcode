@@ -1,67 +1,38 @@
 class Solution {
-    public boolean isValid(String s) 
-    {
-        // logic :
-        // traver given str as curr 
-        Stack< Character > s1 = new Stack<>() ;
-        for( int i = 0 ; i < s.length() ; i++ )
-        {
-            char curr = s.charAt(i) ;
-            
-            // if curr is opening P thn push in stack
-            if( curr == '(' || curr == '{' || curr == '[' )
-            {
-                s1.push(curr) ;
+    public boolean isValid(String s) {
+
+        Stack<Character> st = new Stack<>() ;
+
+        for(int i = 0 ; i < s.length() ; i++){
+            char currc = s.charAt(i) ;
+            if( currc == '(' || currc == '{' || currc == '['  ){
+                st.push(currc) ;
             }
-            else if( curr == ')' || curr == ']' || curr == '}' )
-            {
-                // it it is closing thn 
-                // pop peek and chk if it not valid  thn false
-                // if empty thn false
-                if( s1.empty() == true)
-                {
+            else{
+                if(st.isEmpty()){
                     return false ;
                 }
-                char top = s1.pop() ;
-                switch( curr )
-                {
-                    case ')':
-                    if( top != '(')
-                    {
-                        return false ;
-                    }
-                    break ;
-
-                    case ']':
-                    if( top != '[')
-                    {
-                        return false ;
-                    }
-                    break ;
-
-                    case '}':
-                    if( top != '{')
-                    {
-                        return false ;
-                    }
-                    
-                    break ;
-
+                if( currc == ')' && st.peek() == '(' ){
+                    st.pop() ;
                 }
- 
+                else if( currc == '}' && st.peek() == '{' ){
+                    st.pop() ;
+                }
+                else if( currc == ']' && st.peek() == '[' ){
+                    st.pop() ;
+                }
+                else{
+                    return false ;
+                }
             }
-
         }
-        
-        
-        if( s1.empty() == false )
-        {
+
+        if(st.isEmpty()){
+            return true ;
+        }
+        else{
             return false ;
         }
-        // loop enf
-        // is stack not empty thn fasle
-        return true ;
-        // at last return true
 
     }
 }
