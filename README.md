@@ -114,6 +114,7 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/tejal156/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/tejal156/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0460-lfu-cache](https://github.com/tejal156/Leetcode/tree/master/0460-lfu-cache) |
 ## Queue
 |  |
 | ------- |
@@ -123,4 +124,16 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/tejal156/Leetcode/tree/master/0020-valid-parentheses) |
+## Hash Table
+|  |
+| ------- |
+| [0460-lfu-cache](https://github.com/tejal156/Leetcode/tree/master/0460-lfu-cache) |
+## Linked List
+|  |
+| ------- |
+| [0460-lfu-cache](https://github.com/tejal156/Leetcode/tree/master/0460-lfu-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0460-lfu-cache](https://github.com/tejal156/Leetcode/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->
