@@ -100,6 +100,7 @@
 | ------- |
 | [0051-n-queens](https://github.com/tejal156/Leetcode/tree/master/0051-n-queens) |
 | [0073-set-matrix-zeroes](https://github.com/tejal156/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0118-pascals-triangle](https://github.com/tejal156/Leetcode/tree/master/0118-pascals-triangle) |
 | [1036-rotting-oranges](https://github.com/tejal156/Leetcode/tree/master/1036-rotting-oranges) |
 ## Backtracking
 |  |
@@ -175,6 +176,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/tejal156/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0118-pascals-triangle](https://github.com/tejal156/Leetcode/tree/master/0118-pascals-triangle) |
 ## Math
 |  |
 | ------- |
