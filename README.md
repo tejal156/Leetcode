@@ -99,6 +99,7 @@
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/tejal156/Leetcode/tree/master/0051-n-queens) |
+| [0073-set-matrix-zeroes](https://github.com/tejal156/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [1036-rotting-oranges](https://github.com/tejal156/Leetcode/tree/master/1036-rotting-oranges) |
 ## Backtracking
 |  |
@@ -138,6 +139,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/tejal156/Leetcode/tree/master/0013-roman-to-integer) |
+| [0073-set-matrix-zeroes](https://github.com/tejal156/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0460-lfu-cache](https://github.com/tejal156/Leetcode/tree/master/0460-lfu-cache) |
 ## Linked List
 |  |
@@ -154,6 +156,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/tejal156/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [1036-rotting-oranges](https://github.com/tejal156/Leetcode/tree/master/1036-rotting-oranges) |
 ## Monotonic Stack
 |  |
