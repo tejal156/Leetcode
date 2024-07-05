@@ -181,8 +181,13 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/tejal156/Leetcode/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/tejal156/Leetcode/tree/master/0050-powx-n) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/tejal156/Leetcode/tree/master/0014-longest-common-prefix) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/tejal156/Leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
