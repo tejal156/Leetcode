@@ -6,15 +6,15 @@ class Solution {
         
         splitFun( arr , s ) ;
         int n = arr.size() ;
-        for(int i = 0 ; i < n/2 ; i++ ){
-            String temp = arr.get(i) ;
-            arr.set( i ,arr.get(n-1-i) )  ;
-            arr.set( n-1-i , temp)  ;
-        }
+        // for(int i = 0 ; i < n/2 ; i++ ){
+        //     String temp = arr.get(i) ;
+        //     arr.set( i ,arr.get(n-1-i) )  ;
+        //     arr.set( n-1-i , temp)  ;
+        // }
 
         StringBuilder str = new StringBuilder() ;
 
-        for(int i = 0 ; i < n ; i++ ){
+        for(int i = n-1 ; i >= 0 ; i-- ){
             str.append( arr.get(i) ) ;
             str.append(" ") ;
         }
