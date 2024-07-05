@@ -129,11 +129,13 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/tejal156/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0013-roman-to-integer](https://github.com/tejal156/Leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/tejal156/Leetcode/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/tejal156/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/tejal156/Leetcode/tree/master/0013-roman-to-integer) |
 | [0460-lfu-cache](https://github.com/tejal156/Leetcode/tree/master/0460-lfu-cache) |
 ## Linked List
 |  |
@@ -168,4 +170,8 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/tejal156/Leetcode/tree/master/0005-longest-palindromic-substring) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/tejal156/Leetcode/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
