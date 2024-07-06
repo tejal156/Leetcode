@@ -136,11 +136,13 @@
 | [0014-longest-common-prefix](https://github.com/tejal156/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/tejal156/Leetcode/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/tejal156/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/tejal156/Leetcode/tree/master/0242-valid-anagram) |
 ## Hash Table
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/tejal156/Leetcode/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/tejal156/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0242-valid-anagram](https://github.com/tejal156/Leetcode/tree/master/0242-valid-anagram) |
 | [0460-lfu-cache](https://github.com/tejal156/Leetcode/tree/master/0460-lfu-cache) |
 ## Linked List
 |  |
@@ -190,4 +192,8 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/tejal156/Leetcode/tree/master/0050-powx-n) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/tejal156/Leetcode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
