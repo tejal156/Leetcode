@@ -10,81 +10,61 @@
  */
 class Solution {
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
-        int e = 0 ;
-        ListNode ans ;
-        ListNode h1 = new ListNode(-1) ;
-        ans = h1 ;
-        while( l1 != null && l2 != null ){
-            int temp = l1.val + l2.val + e  ;
-            int cn ;
-            if(temp >= 10){
-                e = 1  ;
-                cn = temp - 10 ;
-            }else{
-                cn = temp ;
-                e =  0;
+        ListNode l1i = l1 ;
+        ListNode l2i = l2 ;
+        ListNode ans = new ListNode(-1) ;
+        ListNode ansi = ans ;
+        int c = 0 ;
+        int cn = 0 ;
+        
+        while( l1i != null && l2i != null){
+            int an = l1i.val + l2i.val + c ;
+            if(an >= 10 ){
+                cn = an -10 ;
+                c = 1  ;
             }
-            h1.next = new ListNode(cn) ;
-            h1 = h1.next ;
-            l1 = l1.next ;
-            l2 = l2.next ;
-        }
-
-        while(l1 != null ){
-            int temp = l1.val +  e  ;
-            int cn ;
-            if(temp >= 10){
-                e = 1  ;
-                cn = temp - 10 ;
-            }else{
-                cn = temp ;
-                e =  0;
+            else{
+                cn = an ;
+                c = 0 ;
             }
-            h1.next = new ListNode(cn) ;
-            h1 = h1.next ;
-            l1 = l1.next ;
+            l1i = l1i.next ;
+            l2i = l2i.next ;
+            ansi.next = new ListNode(cn) ;
+            ansi = ansi.next ; 
         }
 
-        while(l2 != null ){
-            int temp = l2.val +  e  ;
-            int cn ;
-            if(temp >= 10){
-                e = 1  ;
-                cn = temp - 10 ;
-            }else{
-                cn = temp ;
-                e =  0;
+        while( l1i != null ){
+            int an = l1i.val  + c ;
+            if(an >= 10 ){
+                cn = an -10 ;
+                c = 1  ;
             }
-            h1.next = new ListNode(cn) ;
-            h1 = h1.next ;
-            l2 = l2.next ;
-        }
-
-        if(e == 1){
-            h1.next = new ListNode(1) ;
-            h1 = h1.next ;
-        }
-
-        return  ans.next ;
-
+            else{
+                cn = an ;
+                c = 0 ;
+            }
+            l1i = l1i.next ;
+            ansi.next = new ListNode(cn) ;
+            ansi = ansi.next ;
+        }       
+        while( l2i != null ){
+            int an = l2i.val  + c ;
+            if(an >= 10 ){
+                cn = an -10 ;
+                c = 1  ;
+            }
+            else{
+                cn = an ;
+                c = 0 ;
+            }
+            l2i = l2i.next ;
+            ansi.next = new ListNode(cn) ;
+            ansi = ansi.next ;
+        }  
+        if(c == 1){
+            ansi.next = new ListNode(1) ;
+            ansi = ansi.next ;
+        }   
+        return ans.next ;
     }
-
-    // public ListNode reverseList(ListNode head) {
-    //     ListNode s = null ;
-    //     ListNode m = head ;
-    //     if( head == null ){
-    //         return head ;
-    //     }
-    //     ListNode e = head.next ;
-    //     while(e != null){
-    //         m.next = s ;
-    //         s= m ; 
-    //         m = e ;
-    //         e = e.next ;
-    //     }
-    //     m.next = s ;
-    //     return m ;
-
-    // }
-
 }
