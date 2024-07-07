@@ -156,6 +156,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/tejal156/Leetcode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/tejal156/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/tejal156/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/tejal156/Leetcode/tree/master/0206-reverse-linked-list) |
@@ -200,6 +201,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/tejal156/Leetcode/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/tejal156/Leetcode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/tejal156/Leetcode/tree/master/0050-powx-n) |
 ## Trie
@@ -209,6 +211,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/tejal156/Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/tejal156/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/tejal156/Leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/tejal156/Leetcode/tree/master/0206-reverse-linked-list) |
