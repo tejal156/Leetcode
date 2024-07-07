@@ -156,6 +156,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/tejal156/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0460-lfu-cache](https://github.com/tejal156/Leetcode/tree/master/0460-lfu-cache) |
 | [0908-middle-of-the-linked-list](https://github.com/tejal156/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 ## Doubly-Linked List
@@ -206,6 +207,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/tejal156/Leetcode/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/tejal156/Leetcode/tree/master/0206-reverse-linked-list) |
 ## Sorting
 |  |
 | ------- |
