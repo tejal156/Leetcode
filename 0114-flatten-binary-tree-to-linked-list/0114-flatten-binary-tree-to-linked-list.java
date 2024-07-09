@@ -16,7 +16,7 @@
 class Solution {
     public void flatten(TreeNode root) {
         makeLinks(root) ;
-        breakLinks(root) ;
+        // breakLinks(root) ;
     }
 
     public void makeLinks(TreeNode root){
@@ -43,7 +43,10 @@ class Solution {
         }
         cn = root ;
         if(cn.left != null ){
-            makeLinks( cn.left) ;
+            
+            cn.right = cn.left ;
+            cn.left = null ;
+            makeLinks( cn.right) ;
         }
         else{
             makeLinks( cn.right) ;  
@@ -51,18 +54,4 @@ class Solution {
 
     }
 
-    public void breakLinks(TreeNode root){
-        if(root == null ){
-            return ; 
-        }
-        if(root.left == null ){
-            breakLinks( root.right) ;
-        }
-        else{
-            // System.out.println("link break : "+ root.val + " "+root.right.val) ;
-            root.right = root.left ;
-            root.left = null ;
-            breakLinks( root.right) ;
-        }
-    }
 }
