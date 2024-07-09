@@ -15,24 +15,22 @@
  */
 class Solution {
     public TreeNode buildTree(int[] inorder, int[] postorder) {
-        return helperFun( inorder , postorder , 0 ,inorder.length-1  , 0 , postorder.length-1) ; 
+        HashMap<Integer , Integer> hm = new HashMap<>() ;
+        for(int i = 0 ; i < inorder.length ; i++){
+            hm.put( inorder[i] , i) ;
+        }
+        return helperFun( inorder , postorder , 0 ,inorder.length-1  , 0 , postorder.length-1 , hm) ; 
     }
-    public TreeNode helperFun(int[] i , int[] p  , int si , int ei , int sp , int ep){
+    public TreeNode helperFun(int[] i , int[] p  , int si , int ei , int sp , int ep , HashMap<Integer , Integer> hm){
         if( si > ei || sp > ep){
             return null ;
         }
         TreeNode root = new TreeNode( p[ep] ) ;
-        int iri = 0 ;
-        for(int n = si ; n <= ei ; n++){
-            if( i[n] == p[ep]){
-                iri = n ;
-                break ;
-            }
-        }
-        System.out.println(root.val +" "+iri) ;
+        int iri = hm.get(p[ep]);
+        
         int tn = iri -si -1 ; 
-        root.left = helperFun( i , p , si , iri-1 , sp , sp+tn ) ; 
-        root.right = helperFun(i , p , iri+1 , ei , sp+tn+1,ep-1) ; 
+        root.left = helperFun( i , p , si , iri-1 , sp , sp+tn , hm  ) ; 
+        root.right = helperFun(i , p , iri+1 , ei , sp+tn+1,ep-1 , hm) ; 
         return root ; 
     }
 }
