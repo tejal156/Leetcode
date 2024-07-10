@@ -20,12 +20,13 @@ class Solution {
         helperFun(root , k , ans , counter);
         return ans[0] ;
     }
-    public void helperFun( TreeNode root, int k , int ans[] , int counter[]){
-        if(root == null) return ;
+    public boolean helperFun( TreeNode root, int k , int ans[] , int counter[]){
+        if(root == null) return true ;
 
-        helperFun(root.left , k , ans , counter) ;
+        if(helperFun(root.left , k , ans , counter) == false)return false ;
         counter[0]++ ;
-        if( counter[0] == k){ans[0] = root.val ; return ; }
-        helperFun(root.right , k , ans , counter) ;
+        if( counter[0] == k){ans[0] = root.val ; return false; }
+        if(helperFun(root.right , k , ans , counter) == false)return false ;
+        return true ; 
     }
 }
