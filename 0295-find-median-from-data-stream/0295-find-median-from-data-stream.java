@@ -15,12 +15,6 @@ class MedianFinder {
             pq1.add(num) ;
         }
         else if(pq1.size() > pq2.size() ){
-            // if(num >= pq2.peek() ) pq2.add(num) ;
-            // else{
-            //     pq1.add(num) ;
-            //     int temp = pq1.remove() ;
-            //     pq2.add(temp) ;
-            // }
             pq2.add(num) ;
         }
 
