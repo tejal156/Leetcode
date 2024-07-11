@@ -1,42 +1,44 @@
 class MedianFinder {
-    PriorityQueue<Integer> pq1 ;
-    PriorityQueue<Integer> pq2 ;
-
+    PriorityQueue<Integer>pq1 ;
+    PriorityQueue<Integer>pq2 ;
     public MedianFinder() {
-        pq1 =  new PriorityQueue<>( new Comparator<Integer>(){
-            public int compare( Integer n1 , Integer n2 ){
-                return n2 - n1;
+        pq2 = new PriorityQueue<>() ;
+        pq1 = new PriorityQueue<>( new Comparator<Integer>(){
+            public int compare(Integer n1 , Integer n2 ){
+                return n2 - n1 ; 
             }
-        }) ; 
-        pq2 = new PriorityQueue<>( new Comparator<Integer>(){
-            public int compare( Integer n1 , Integer n2 ){
-                return n1 - n2;
-            }
-        }) ; 
+        }) ;
     }
     
     public void addNum(int num) {
-        pq1.add(num) ;
-        if(pq1.size() > pq2.size()+1 ){
-            pq2.add( pq1.remove() ) ;
+        if(pq1.size() == pq2.size() ){
+            pq1.add(num) ;
+        }
+        else if(pq1.size() > pq2.size() ){
+            // if(num >= pq2.peek() ) pq2.add(num) ;
+            // else{
+            //     pq1.add(num) ;
+            //     int temp = pq1.remove() ;
+            //     pq2.add(temp) ;
+            // }
+            pq2.add(num) ;
         }
 
-        if( !pq1.isEmpty() &&  !pq2.isEmpty() && pq1.peek() > pq2.peek() ){
-            pq2.add( pq1.remove() ) ;
-            pq1.add( pq2.remove() ) ;
+        if(pq1.size() >0  && pq2.size()>0 && pq2.peek() < pq1.peek() ){
+            int temp = pq1.remove() ;
+            pq2.add(temp) ;      
+            temp = pq2.remove() ;
+            pq1.add(temp) ;      
         }
+
     }
     
     public double findMedian() {
-        double ans ;
-        if(pq1.size() == pq2.size()){
-            ans = (double)pq1.peek() + (double)pq2.peek() ;
-            ans = ans/(double)2 ;
+        double ans = 0 ;
+        if(pq1.size() == pq2.size() ){
+            return (  (double)pq1.peek() + (double)pq2.peek() )/(double)2 ; 
         }
-        else{
-            ans = (double)pq1.peek() ;
-        }
-        return ans ; 
+        return (double)pq1.peek() ;
     }
 }
 
