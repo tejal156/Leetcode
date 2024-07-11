@@ -15,43 +15,25 @@
  */
 class Solution {
     public void flatten(TreeNode root) {
-        makeLinks(root) ;
-        // breakLinks(root) ;
-    }
-
-    public void makeLinks(TreeNode root){
-        TreeNode cn = root ;
-        if(cn == null ){
-            return ;
+        if(root == null ){
+            return ; 
         }
-        // if r exist then enstablish a link 
-        if( cn.right != null ){
-            TreeNode rn = cn.right ;
-            if(cn.left!= null ){
-                cn = cn.left ;
-                while(cn.right != null || cn.left != null ){
-                    while(cn.right != null ){
-                        cn = cn.right ;
-                    }
-                    if(cn.left != null ){
-                        cn = cn.left ;
-                    }
-                }
-                cn.right = rn ; 
-                // System.out.println("link between : "+ cn.val + " "+rn.val) ;
+        TreeNode cn = root ; 
+        if(cn.left != null && cn.right!= null ){
+            cn = cn.left ;
+            while(  cn.right != null ){
+                cn = cn.right ; 
             }
+            cn.right = root.right ; 
         }
-        cn = root ;
-        if(cn.left != null ){
-            
-            cn.right = cn.left ;
-            cn.left = null ;
-            makeLinks( cn.right) ;
-        }
-        else{
-            makeLinks( cn.right) ;  
+        if(root.left == null) flatten( root.right ) ;
+        else{ 
+            root.right = root.left ;
+            root.left = null ;
+            flatten( root.right ); 
         }
 
     }
+
 
 }
