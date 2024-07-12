@@ -114,6 +114,7 @@
 | [0733-flood-fill](https://github.com/tejal156/Leetcode/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/tejal156/Leetcode/tree/master/1036-rotting-oranges) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/tejal156/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/tejal156/Leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 ## Backtracking
 |  |
 | ------- |
@@ -246,6 +247,7 @@
 | [0322-coin-change](https://github.com/tejal156/Leetcode/tree/master/0322-coin-change) |
 | [1250-longest-common-subsequence](https://github.com/tejal156/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/tejal156/Leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/tejal156/Leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 ## Math
 |  |
 | ------- |
@@ -271,6 +273,7 @@
 | [0295-find-median-from-data-stream](https://github.com/tejal156/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/tejal156/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/tejal156/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/tejal156/Leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
