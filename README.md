@@ -105,6 +105,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/tejal156/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/tejal156/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tejal156/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/tejal156/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tejal156/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0322-coin-change](https://github.com/tejal156/Leetcode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/tejal156/Leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -236,6 +237,7 @@
 | [0072-edit-distance](https://github.com/tejal156/Leetcode/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/tejal156/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tejal156/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/tejal156/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/tejal156/Leetcode/tree/master/0322-coin-change) |
 | [1250-longest-common-subsequence](https://github.com/tejal156/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/tejal156/Leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
