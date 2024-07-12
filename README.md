@@ -106,6 +106,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/tejal156/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/tejal156/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tejal156/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/tejal156/Leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/tejal156/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tejal156/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0300-longest-increasing-subsequence](https://github.com/tejal156/Leetcode/tree/master/0300-longest-increasing-subsequence) |
@@ -159,6 +160,7 @@
 | [0020-valid-parentheses](https://github.com/tejal156/Leetcode/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/tejal156/Leetcode/tree/master/0038-count-and-say) |
 | [0072-edit-distance](https://github.com/tejal156/Leetcode/tree/master/0072-edit-distance) |
+| [0139-word-break](https://github.com/tejal156/Leetcode/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/tejal156/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/tejal156/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0242-valid-anagram](https://github.com/tejal156/Leetcode/tree/master/0242-valid-anagram) |
@@ -169,6 +171,7 @@
 | [0013-roman-to-integer](https://github.com/tejal156/Leetcode/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/tejal156/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/tejal156/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0139-word-break](https://github.com/tejal156/Leetcode/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/tejal156/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/tejal156/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0460-lfu-cache](https://github.com/tejal156/Leetcode/tree/master/0460-lfu-cache) |
@@ -242,6 +245,7 @@
 | [0072-edit-distance](https://github.com/tejal156/Leetcode/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/tejal156/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tejal156/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/tejal156/Leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/tejal156/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/tejal156/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/tejal156/Leetcode/tree/master/0322-coin-change) |
@@ -258,6 +262,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/tejal156/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/tejal156/Leetcode/tree/master/0139-word-break) |
 ## Recursion
 |  |
 | ------- |
@@ -400,4 +405,8 @@
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/tejal156/Leetcode/tree/master/0173-binary-search-tree-iterator) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/tejal156/Leetcode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
