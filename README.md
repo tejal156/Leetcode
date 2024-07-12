@@ -100,6 +100,7 @@
 | ------- |
 | [0051-n-queens](https://github.com/tejal156/Leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/tejal156/Leetcode/tree/master/0053-maximum-subarray) |
+| [0064-minimum-path-sum](https://github.com/tejal156/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/tejal156/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/tejal156/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/tejal156/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -206,6 +207,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/tejal156/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/tejal156/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0733-flood-fill](https://github.com/tejal156/Leetcode/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/tejal156/Leetcode/tree/master/1036-rotting-oranges) |
@@ -235,6 +237,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/tejal156/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/tejal156/Leetcode/tree/master/0053-maximum-subarray) |
+| [0064-minimum-path-sum](https://github.com/tejal156/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/tejal156/Leetcode/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/tejal156/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tejal156/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
