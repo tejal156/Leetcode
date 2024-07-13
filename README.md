@@ -140,6 +140,7 @@
 | ------- |
 | [0155-min-stack](https://github.com/tejal156/Leetcode/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/tejal156/Leetcode/tree/master/0173-binary-search-tree-iterator) |
+| [0208-implement-trie-prefix-tree](https://github.com/tejal156/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0225-implement-stack-using-queues](https://github.com/tejal156/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/tejal156/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/tejal156/Leetcode/tree/master/0295-find-median-from-data-stream) |
@@ -164,6 +165,7 @@
 | [0139-word-break](https://github.com/tejal156/Leetcode/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/tejal156/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/tejal156/Leetcode/tree/master/0165-compare-version-numbers) |
+| [0208-implement-trie-prefix-tree](https://github.com/tejal156/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/tejal156/Leetcode/tree/master/0242-valid-anagram) |
 | [1250-longest-common-subsequence](https://github.com/tejal156/Leetcode/tree/master/1250-longest-common-subsequence) |
 ## Hash Table
@@ -173,6 +175,7 @@
 | [0073-set-matrix-zeroes](https://github.com/tejal156/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/tejal156/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0139-word-break](https://github.com/tejal156/Leetcode/tree/master/0139-word-break) |
+| [0208-implement-trie-prefix-tree](https://github.com/tejal156/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/tejal156/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/tejal156/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0460-lfu-cache](https://github.com/tejal156/Leetcode/tree/master/0460-lfu-cache) |
@@ -265,6 +268,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/tejal156/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/tejal156/Leetcode/tree/master/0139-word-break) |
+| [0208-implement-trie-prefix-tree](https://github.com/tejal156/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 ## Recursion
 |  |
 | ------- |
