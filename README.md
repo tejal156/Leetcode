@@ -326,6 +326,7 @@
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/tejal156/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1207-delete-nodes-and-return-forest](https://github.com/tejal156/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/tejal156/Leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
+| [1653-number-of-good-leaf-nodes-pairs](https://github.com/tejal156/Leetcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/tejal156/Leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Depth-First Search
 |  |
@@ -350,6 +351,7 @@
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/tejal156/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/tejal156/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/tejal156/Leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
+| [1653-number-of-good-leaf-nodes-pairs](https://github.com/tejal156/Leetcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/tejal156/Leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Binary Tree
 |  |
@@ -381,6 +383,7 @@
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/tejal156/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1207-delete-nodes-and-return-forest](https://github.com/tejal156/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/tejal156/Leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
+| [1653-number-of-good-leaf-nodes-pairs](https://github.com/tejal156/Leetcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/tejal156/Leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Divide and Conquer
 |  |
