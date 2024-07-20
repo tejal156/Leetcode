@@ -119,6 +119,7 @@
 | [1352-maximum-profit-in-job-scheduling](https://github.com/tejal156/Leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/tejal156/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/tejal156/Leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/tejal156/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 ## Backtracking
 |  |
 | ------- |
@@ -224,6 +225,7 @@
 | [0733-flood-fill](https://github.com/tejal156/Leetcode/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/tejal156/Leetcode/tree/master/1036-rotting-oranges) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/tejal156/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/tejal156/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -431,4 +433,8 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/tejal156/Leetcode/tree/master/0139-word-break) |
+## Greedy
+|  |
+| ------- |
+| [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/tejal156/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 <!---LeetCode Topics End-->
