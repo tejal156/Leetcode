@@ -437,4 +437,8 @@
 |  |
 | ------- |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/tejal156/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+## Database
+|  |
+| ------- |
+| [1278-product-price-at-a-given-date](https://github.com/tejal156/Leetcode/tree/master/1278-product-price-at-a-given-date) |
 <!---LeetCode Topics End-->
