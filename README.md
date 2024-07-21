@@ -449,6 +449,7 @@
 | [1327-last-person-to-fit-in-the-bus](https://github.com/tejal156/Leetcode/tree/master/1327-last-person-to-fit-in-the-bus) |
 | [1452-restaurant-growth](https://github.com/tejal156/Leetcode/tree/master/1452-restaurant-growth) |
 | [1480-movie-rating](https://github.com/tejal156/Leetcode/tree/master/1480-movie-rating) |
+| [1670-patients-with-a-condition](https://github.com/tejal156/Leetcode/tree/master/1670-patients-with-a-condition) |
 | [1811-fix-names-in-a-table](https://github.com/tejal156/Leetcode/tree/master/1811-fix-names-in-a-table) |
 | [2057-count-salary-categories](https://github.com/tejal156/Leetcode/tree/master/2057-count-salary-categories) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/tejal156/Leetcode/tree/master/2127-employees-whose-manager-left-the-company) |
