@@ -440,6 +440,7 @@
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/tejal156/Leetcode/tree/master/0176-second-highest-salary) |
 | [0180-consecutive-numbers](https://github.com/tejal156/Leetcode/tree/master/0180-consecutive-numbers) |
 | [0185-department-top-three-salaries](https://github.com/tejal156/Leetcode/tree/master/0185-department-top-three-salaries) |
 | [0585-investments-in-2016](https://github.com/tejal156/Leetcode/tree/master/0585-investments-in-2016) |
