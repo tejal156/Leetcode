@@ -214,6 +214,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/tejal156/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/tejal156/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/tejal156/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0207-course-schedule](https://github.com/tejal156/Leetcode/tree/master/0207-course-schedule) |
 | [0322-coin-change](https://github.com/tejal156/Leetcode/tree/master/0322-coin-change) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/tejal156/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/tejal156/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
@@ -349,6 +350,7 @@
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/tejal156/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0144-binary-tree-preorder-traversal](https://github.com/tejal156/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/tejal156/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0207-course-schedule](https://github.com/tejal156/Leetcode/tree/master/0207-course-schedule) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/tejal156/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/tejal156/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/tejal156/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -466,4 +468,12 @@
 | [2057-count-salary-categories](https://github.com/tejal156/Leetcode/tree/master/2057-count-salary-categories) |
 | [2087-confirmation-rate](https://github.com/tejal156/Leetcode/tree/master/2087-confirmation-rate) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/tejal156/Leetcode/tree/master/2127-employees-whose-manager-left-the-company) |
+## Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/tejal156/Leetcode/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/tejal156/Leetcode/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
