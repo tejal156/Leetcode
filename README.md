@@ -120,6 +120,7 @@
 | [1496-lucky-numbers-in-a-matrix](https://github.com/tejal156/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/tejal156/Leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/tejal156/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [2502-sort-the-people](https://github.com/tejal156/Leetcode/tree/master/2502-sort-the-people) |
 ## Backtracking
 |  |
 | ------- |
@@ -172,6 +173,7 @@
 | [0242-valid-anagram](https://github.com/tejal156/Leetcode/tree/master/0242-valid-anagram) |
 | [1250-longest-common-subsequence](https://github.com/tejal156/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/tejal156/Leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2502-sort-the-people](https://github.com/tejal156/Leetcode/tree/master/2502-sort-the-people) |
 ## Hash Table
 |  |
 | ------- |
@@ -186,6 +188,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/tejal156/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/tejal156/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/tejal156/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
+| [2502-sort-the-people](https://github.com/tejal156/Leetcode/tree/master/2502-sort-the-people) |
 ## Linked List
 |  |
 | ------- |
@@ -293,6 +296,7 @@
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/tejal156/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/tejal156/Leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/tejal156/Leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [2502-sort-the-people](https://github.com/tejal156/Leetcode/tree/master/2502-sort-the-people) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
