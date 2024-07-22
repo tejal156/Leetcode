@@ -108,6 +108,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tejal156/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/tejal156/Leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/tejal156/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0200-number-of-islands](https://github.com/tejal156/Leetcode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tejal156/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0300-longest-increasing-subsequence](https://github.com/tejal156/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/tejal156/Leetcode/tree/master/0322-coin-change) |
@@ -214,6 +215,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/tejal156/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/tejal156/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/tejal156/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0200-number-of-islands](https://github.com/tejal156/Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/tejal156/Leetcode/tree/master/0207-course-schedule) |
 | [0322-coin-change](https://github.com/tejal156/Leetcode/tree/master/0322-coin-change) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/tejal156/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -226,6 +228,7 @@
 | ------- |
 | [0064-minimum-path-sum](https://github.com/tejal156/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/tejal156/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0200-number-of-islands](https://github.com/tejal156/Leetcode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/tejal156/Leetcode/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/tejal156/Leetcode/tree/master/1036-rotting-oranges) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/tejal156/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -350,6 +353,7 @@
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/tejal156/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0144-binary-tree-preorder-traversal](https://github.com/tejal156/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/tejal156/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/tejal156/Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/tejal156/Leetcode/tree/master/0207-course-schedule) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/tejal156/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/tejal156/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -476,4 +480,8 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/tejal156/Leetcode/tree/master/0207-course-schedule) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/tejal156/Leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
