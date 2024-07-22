@@ -1,32 +1,25 @@
 class Solution {
     public boolean isBipartite(int[][] graph) {
-        int nv = graph.length ;
-        int clr[] = new int[nv] ;
-        Queue<Integer> q = new LinkedList<>() ;
-    
-        for(int j = 0 ; j < nv ; j++){
-            if( clr[j] == 0 ){
-                q.add(j) ;
-                clr[j] = 1 ; 
-                while(q.isEmpty() == false){
-                    int currv = q.remove() ;
-
-                    for(int i = 0 ; i < graph[currv].length ; i++ ){
-                        if(clr[graph[currv][i]] == 0){
-                            clr[graph[currv][i]] = (clr[currv] == 1? 2:1  ) ;
-                            q.add( graph[currv][i]  ) ;
-                        }
-                        else{
-                            if( clr[graph[currv][i]] == clr[currv] )return false ; 
-                        }
-                    }
-                }
-
-
-
+        int color[] = new int[ graph.length ] ;
+        for(int i = 0 ; i < color.length ; i++){
+            if(color[i] == 0){
+                if( dfs( graph , color , i )  == false) return false ; 
             }
         }
+        return  true ;
+    }
 
-        return true ;
+    public boolean dfs( int[][] graph , int color[] , int curri ){
+        for(int i = 0 ; i < graph[curri].length ; i++ ){
+            int ni = graph[curri][i] ; 
+            if( color[ni] == 0 ){
+                color[ni] = ( color[curri] == 1? 2 :1);
+                if( dfs(graph , color , ni)  == false)return false ; 
+            }
+            else{
+                if( color[ni] == color[curri] )return false ; 
+            }
+        }
+        return true ; 
     }
 }
