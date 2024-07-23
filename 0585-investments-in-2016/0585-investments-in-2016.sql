@@ -1,21 +1,14 @@
 # Write your MySQL query statement below
--- select i.tiv_2015 , sum(i.tiv_2016) as tiv_2016
-
-select round(sum(tiv_2016),2) as tiv_2016 
-from Insurance i
-where (lat , lon ) in 
+select round( sum(tiv_2016),2 )as tiv_2016
+from Insurance i 
+where 
+(select count(*)
+from Insurance
+where tiv_2015 = i.tiv_2015
+ ) > 1
+ and 
 (
-    select lat , lon
-    from Insurance
-    group by lat , lon
-    having count(*)=1 
-)   
-
-and 
- tiv_2015 in (
-    select tiv_2015
+    select count(*)
     from Insurance 
-    group by tiv_2015 
-    having count(*)>1 
-)
- 
+    where lat = i.lat and lon = i.lon  
+) = 1 
