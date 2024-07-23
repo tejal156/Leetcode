@@ -16,14 +16,15 @@
 class Solution {
     public boolean isSymmetric(TreeNode root) {
         if(root == null )return true ; 
-        return  helperFun( root.left ,  root.right) ;
+        return helperFun(root.left  , root.right  ) ;
     }
-    public boolean helperFun(TreeNode root1 , TreeNode root2) {
-        if(root1 == null && root2 == null)return true ;
-        if(root1 == null || root2 == null)return false ;
-        if(root1.val != root2.val )return false ;
-        if(  helperFun( root1.left , root2.right)== false)return false ;
-        if(  helperFun( root1.right , root2.left)== false)return false ;
+
+    public boolean helperFun(TreeNode rootl ,TreeNode rootr  ){
+        if(rootl == null && rootr == null )return true ;
+        if(rootl == null || rootr == null )return false ;
+        if(rootl.val != rootr.val)return false ; 
+        if( !helperFun(rootl.left , rootr.right) )return false  ;
+        if( !helperFun(rootl.right , rootr.left ))return false  ;
         return true ; 
     }
 }
