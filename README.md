@@ -114,6 +114,7 @@
 | [0200-number-of-islands](https://github.com/tejal156/Leetcode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tejal156/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0300-longest-increasing-subsequence](https://github.com/tejal156/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0312-burst-balloons](https://github.com/tejal156/Leetcode/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/tejal156/Leetcode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/tejal156/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0733-flood-fill](https://github.com/tejal156/Leetcode/tree/master/0733-flood-fill) |
@@ -286,6 +287,7 @@
 | [0139-word-break](https://github.com/tejal156/Leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/tejal156/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/tejal156/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0312-burst-balloons](https://github.com/tejal156/Leetcode/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/tejal156/Leetcode/tree/master/0322-coin-change) |
 | [0516-longest-palindromic-subsequence](https://github.com/tejal156/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/tejal156/Leetcode/tree/master/1250-longest-common-subsequence) |
