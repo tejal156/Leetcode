@@ -13,11 +13,11 @@ class Solution {
         if( i1 >= text1.length() || i2 >= text2.length() )return 0 ; 
         if(dp[i1][i2] != -1)return dp[i1][i2] ;
         int max = 0 ; 
-        if( text1.charAt(i1) == text2.charAt(i2) ) max = Math.max( max , 1+ helperFun(text1 , text2 , i1+1 , i2+1 , dp)) ;
+        if( text1.charAt(i1) == text2.charAt(i2) )return  dp[i1][i2] = 1+ helperFun(text1 , text2 , i1+1 , i2+1 , dp) ;
         max = Math.max( max ,  helperFun(text1 , text2 , i1 , i2+1 , dp)) ;
         max = Math.max( max ,  helperFun(text1 , text2 , i1+1 , i2, dp )) ;
         // System.out.println(i1 + " "+i2+" "+max) ;
-        dp[i1][i2] = max ;
-        return dp[i1][i2] ; 
+        // dp[i1][i2] = max ;
+        return dp[i1][i2] = max ;
     }
 }
