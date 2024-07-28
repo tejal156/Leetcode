@@ -178,6 +178,7 @@
 | [0165-compare-version-numbers](https://github.com/tejal156/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0208-implement-trie-prefix-tree](https://github.com/tejal156/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/tejal156/Leetcode/tree/master/0242-valid-anagram) |
+| [0516-longest-palindromic-subsequence](https://github.com/tejal156/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/tejal156/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/tejal156/Leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2502-sort-the-people](https://github.com/tejal156/Leetcode/tree/master/2502-sort-the-people) |
@@ -281,6 +282,7 @@
 | [0152-maximum-product-subarray](https://github.com/tejal156/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/tejal156/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/tejal156/Leetcode/tree/master/0322-coin-change) |
+| [0516-longest-palindromic-subsequence](https://github.com/tejal156/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/tejal156/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/tejal156/Leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/tejal156/Leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
