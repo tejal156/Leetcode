@@ -103,6 +103,7 @@
 | [0063-unique-paths-ii](https://github.com/tejal156/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/tejal156/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/tejal156/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0085-maximal-rectangle](https://github.com/tejal156/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/tejal156/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/tejal156/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/tejal156/Leetcode/tree/master/0118-pascals-triangle) |
@@ -136,6 +137,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/tejal156/Leetcode/tree/master/0020-valid-parentheses) |
+| [0085-maximal-rectangle](https://github.com/tejal156/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/tejal156/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/tejal156/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/tejal156/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
@@ -242,6 +244,7 @@
 | [0063-unique-paths-ii](https://github.com/tejal156/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/tejal156/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/tejal156/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0085-maximal-rectangle](https://github.com/tejal156/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/tejal156/Leetcode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/tejal156/Leetcode/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/tejal156/Leetcode/tree/master/1036-rotting-oranges) |
@@ -250,6 +253,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/tejal156/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0937-online-stock-span](https://github.com/tejal156/Leetcode/tree/master/0937-online-stock-span) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/tejal156/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Data Stream
@@ -276,6 +280,7 @@
 | [0063-unique-paths-ii](https://github.com/tejal156/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/tejal156/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/tejal156/Leetcode/tree/master/0072-edit-distance) |
+| [0085-maximal-rectangle](https://github.com/tejal156/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/tejal156/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tejal156/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/tejal156/Leetcode/tree/master/0139-word-break) |
