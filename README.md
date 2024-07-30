@@ -151,6 +151,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/tejal156/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0937-online-stock-span](https://github.com/tejal156/Leetcode/tree/master/0937-online-stock-span) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/tejal156/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/tejal156/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Design
 |  |
 | ------- |
@@ -185,6 +186,7 @@
 | [0242-valid-anagram](https://github.com/tejal156/Leetcode/tree/master/0242-valid-anagram) |
 | [0516-longest-palindromic-subsequence](https://github.com/tejal156/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/tejal156/Leetcode/tree/master/1250-longest-common-subsequence) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/tejal156/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/tejal156/Leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2502-sort-the-people](https://github.com/tejal156/Leetcode/tree/master/2502-sort-the-people) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/tejal156/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -302,6 +304,7 @@
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/tejal156/Leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1511-count-number-of-teams](https://github.com/tejal156/Leetcode/tree/master/1511-count-number-of-teams) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/tejal156/Leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/tejal156/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Math
 |  |
 | ------- |
